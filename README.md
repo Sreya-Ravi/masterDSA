@@ -21,7 +21,7 @@ for i : (0 --> n) call oneProblemWithSolutionWillBePublishedEveryDay(PS_i , Sol_
 
 <!-- This repo includes, but not limited to, the following topics: -->
 <br/>
-The master list of Data Structures & Algorithms including, but not limited to fundamentals:
+The master list of Data Structures & Algorithms, including, but not limited to fundamentals:
 
 ## Data Structures 
 • `Arrays` <br/>
