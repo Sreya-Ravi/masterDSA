@@ -4,6 +4,19 @@
 <br/>
 
 >The master repo: masterDSA, is the root repo that consists of links to its child repos, each of which represents a Data Structure or an Algorithm topic, and consists of solutions to problems (named PS0,PS1..so on, for easy reference of a problem), that relate particularly to that topic. 
+<br/>
+
+One new problem from a random topic will be published everyday to its corresponding repo and the same is updated in the POD branch, after every publish.
+<br/> • Find the link to the --problem of the day-- from the POD branch, which is updated everyday after the publish •
+
+```
+function oneProblemWithSolutionWillBePublishedEveryDay(problem , solution)-->
+    publish(problem)
+    publish(solution)
+    return
+for i : (0 --> n) call oneProblemWithSolutionWillBePublishedEveryDay(PS_i , Sol_i)
+```
+<br/>
 
 
 <!-- This repo includes, but not limited to, the following topics: -->
@@ -12,6 +25,7 @@ The master list of Data Structures & Algorithms including, but not limited to fu
 
 ## Data Structures 
 • `Arrays` <br/>
+• `Matrix/2D-Arrays` <br/>
 • `Strings` <br/>
 • `Array Lists` <br/>
 • `Maps` <br/>
@@ -19,7 +33,8 @@ The master list of Data Structures & Algorithms including, but not limited to fu
 • `Stacks` <br/>
 • `Queues` <br/>
 • `Linked Lists` <br/>
-• `Trees` <br/>
+• `BinaryTrees/BTs` <br/>
+• `BinarySearchTrees/BSTs` <br/>
 • `Tries` <br/>
 • `Heaps` <br/>
 • `Graphs` <br/> 
@@ -45,3 +60,6 @@ The master list of Data Structures & Algorithms including, but not limited to fu
 • `Branch & Bound` <br/>
 
 > MIT License: Allows every programmer to transfigure the published code, if necessary.
+
+
+
