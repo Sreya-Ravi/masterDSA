@@ -12,7 +12,7 @@ Day 12 : ReverseALinkedList --> https://github.com/Sreya-Ravi/LinkedLists/blob/t
 
 Day 13 : BinaryTreeLevelOrderTraversal --> https://github.com/Sreya-Ravi/BinaryTrees/blob/trunc/PS0:levelOrderTraversal.java <br/>
 
-Day 14 : <br/>
+Day 14 : MergePointOf2LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS1:MergePointOf2LinkedLists.java<br/>
 
 Day 15 : <br/>
 
