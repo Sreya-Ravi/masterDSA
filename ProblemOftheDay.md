@@ -1,7 +1,7 @@
 # Problem Of the Day : Calender'22
 <br/>
 
-This calender constains every day of every month starting from 11th August'22, and its correspoding link to the POD - Problem Of the Day.
+This calender contains every day of every month starting from 11th August'22, and its correspoding link to the POD - Problem Of the Day.
 ## August\`22 
 <br/>
 
@@ -12,9 +12,9 @@ Day 12 : ReverseALinkedList --> https://github.com/Sreya-Ravi/LinkedLists/blob/t
 
 Day 13 : BinaryTreeLevelOrderTraversal --> https://github.com/Sreya-Ravi/BinaryTrees/blob/trunc/PS0:levelOrderTraversal.java <br/>
 
-Day 14 : MergePointOf2LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS1:MergePointOf2LinkedLists.java<br/>
+Day 14 : MergePointOf2LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS1:MergePointOf2LinkedLists.java <br/>
 
-Day 15 : <br/>
+Day 15 : Pattern-BowTie --> https://github.com/Sreya-Ravi/rockBottomFundamentals/blob/trunc/PS0:pattern_BowTie.java <br/>
 
 Day 16 : <br/>
 
