@@ -16,11 +16,11 @@ Day 14 : MergePointOf2LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/
 
 Day 15 : Pattern-BowTie --> https://github.com/Sreya-Ravi/rockBottomFundamentals/blob/trunc/PS0:pattern_BowTie.java <br/>
 
-Day 16 : <br/>
+Day 16 : Valid Parentheses --> https://github.com/Sreya-Ravi/Strings/blob/trunc/PS0:validParanthesis.java <br/>
 
-Day 17 : <br/>
+Day 17 : Remove Consecutive Characters --> https://github.com/Sreya-Ravi/Strings/blob/trunc/PS1:removeConsecutiveCharacters.java <br/>
 
-Day 18 : <br/>
+Day 18 : Subtree of Another Tree --> https://github.com/Sreya-Ravi/BinaryTrees/blob/trunc/PS1:subtreeOfAnotherTree.java <br/>
 
 Day 19 : <br/>
 
