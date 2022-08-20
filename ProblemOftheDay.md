@@ -22,7 +22,7 @@ Day 17 : Remove Consecutive Characters --> https://github.com/Sreya-Ravi/Strings
 
 Day 18 : Subtree of Another Tree --> https://github.com/Sreya-Ravi/BinaryTrees/blob/trunc/PS1:subtreeOfAnotherTree.java <br/>
 
-Day 19 : Multiply 2 Numbers Given As LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS2:Multiply2NosGivenAsLLs.java <br/>
+Day 19 : Multiply 2 Nos. Given As LinkedLists --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS2:Multiply2NosGivenAsLLs.java <br/>
 
 Day 20 : Longest Common Prefix --> https://github.com/Sreya-Ravi/Strings/blob/trunc/PS2:LongestCommonPrefix.java <br/>
 
