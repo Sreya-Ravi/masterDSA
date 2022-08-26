@@ -28,11 +28,11 @@ Day 20 : Longest Common Prefix --> https://github.com/Sreya-Ravi/Strings/blob/tr
 
 Day 21 : Invert Binary Tree --> https://github.com/Sreya-Ravi/BinaryTrees/blob/trunc/PS2:InvertBT.java <br/>
 
-Day 22 : <br/>
+Day 22 : NodesBeforeHigherValue --> https://github.com/Sreya-Ravi/LinkedLists/blob/trunc/PS3:DeleteNodesWithHigherValueOnRight.java <br/>
 
-Day 23 : <br/>
+Day 23 : Group Anagrams --> https://github.com/Sreya-Ravi/Strings/blob/trunc/PS3:GroupAnagrams.java <br/>
 
-Day 24 : <br/>
+Day 24 : Valid Parantheses --> https://github.com/Sreya-Ravi/Strings/blob/trunc/PS4:ValidParantheses.java <br/>
 
 Day 25 : <br/>
 
