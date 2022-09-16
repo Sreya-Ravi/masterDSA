@@ -6,7 +6,7 @@
 >The master repo: masterDSA, is the root repo that consists of links to its child repos, each of which represents a Data Structure or an Algorithm topic, and consists of solutions to problems (named PS0,PS1..so on, for easy reference of a problem), that relate particularly to that topic. 
 <br/>
 
-One new problem from a random topic will be published everyday to its corresponding repo and to the [POD](https://github.com/Sreya-Ravi/masterDSA/tree/pod) branch, after its publish.
+New problems from a random topic will be published to their corresponding repos and to the [POD](https://github.com/Sreya-Ravi/masterDSA/tree/pod) branch, after its publish.
 <br/> • Find the link to the --problem of the day-- from the [POD](https://github.com/Sreya-Ravi/masterDSA/tree/pod) •
 
 ```
